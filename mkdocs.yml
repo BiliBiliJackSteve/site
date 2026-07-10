@@ -16,6 +16,7 @@ theme:
   features:
     - navigation.top
     - navigation.tabs
+    - navigation.tabs.sticky
     - search.highlight
 
   palette:
