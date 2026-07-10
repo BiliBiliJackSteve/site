@@ -30,6 +30,6 @@ theme:
   
   nav:
     - index.md
-    -笔记：
-      -notes/考研知识.md
-      -notes/danq.md
+    - 笔记：
+      - notes/考研知识.md
+      - notes/danq.md
