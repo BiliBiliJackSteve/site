@@ -30,9 +30,10 @@ theme:
         icon: material/weather-night
         name: Switch to light mode
   
-    language: zh
+  language: zh
 
 plugins:
+  - blog
   - tags
 
 
