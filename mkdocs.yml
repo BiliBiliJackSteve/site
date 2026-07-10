@@ -13,7 +13,7 @@ nav:
     - notes/考研知识.md
     - notes/danq.md
   - 测试：
-    - Unitiled-1.md
+    - notes/Untitled-1.md
 
 theme:
   name: material
@@ -35,3 +35,5 @@ theme:
         name: Switch to light mode
   
   language: zh
+
+  copyright: Copyright &copy; 2025 - 2026 Jack_Steve
