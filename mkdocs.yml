@@ -13,6 +13,8 @@ theme:
 
     #toggle for light mode
     - scheme: default
+      primary: black
+      accent: white
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
