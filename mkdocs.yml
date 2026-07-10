@@ -19,6 +19,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - search.highlight
+    - search.suggest
 
   palette:
     #toggle for light mode
@@ -43,5 +44,10 @@ plugins:
   - tags
   - search
 
+extra:
+  social:
+    - icon: fontawesome/brands/mastodon
+      link: https://github.com/BiliBiliJackSteve
+      name: My Github homepage
 
 copyright: 2025 - 2026 Jack_Steve
