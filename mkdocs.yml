@@ -6,20 +6,19 @@ site_description: my first site
 
 theme:
   name: material
+
   palette:
+    #toggle for light mode
     - scheme: default
       primary: grey
       accent: amber
-
-    #toggle for light mode
-    - scheme: default
-      primary: black
-      accent: white
       toggle:
-        icon: material/weather-sunny
+        icon: material/weather-night
         name: Switch to dark mode
     #toggle for dark mode
     - scheme: slate
+      primary: grey
+      accent: amber
       toggle:
-        icon: material/weather-night
+        icon: material/weather-sunny
         name: Switch to light mode
