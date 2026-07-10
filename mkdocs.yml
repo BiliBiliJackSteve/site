@@ -1,1 +1,22 @@
-site_name: My Docs
+#总体设置
+site_name: Jack_Steve的个人网站
+site_url: https://bilibilijacksteve.github.io/site/
+site_author: Jack_Steve
+site_description: my first site
+
+theme:
+  palette:
+    scheme: default
+    primary: grey
+    accent: amber
+
+    #toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    #toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
