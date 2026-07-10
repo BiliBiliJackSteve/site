@@ -10,6 +10,7 @@ nav:
     - notes/danq.md
   - 测试:
     - notes/Untitled-1.md
+    - notes/Markdown测试.md
 
 theme:
   name: material
@@ -46,7 +47,7 @@ plugins:
 
 extra:
   social:
-    - icon: fontawesome/brands/mastodon
+    - icon: fontawesome/brands/github
       link: https://github.com/BiliBiliJackSteve
       name: My Github homepage
 
