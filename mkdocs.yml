@@ -13,12 +13,23 @@ theme:
       primary: grey
       accent: amber
       toggle:
-        icon: material/weather-night
+        icon: material/weather-sunny
         name: Switch to dark mode
     #toggle for dark mode
     - scheme: slate
-      primary: grey
+      primary: black
       accent: amber
       toggle:
-        icon: material/weather-sunny
+        icon: material/weather-night
         name: Switch to light mode
+  
+  language: zh
+
+  plugins:
+    - blog
+  
+  nav:
+    - index.md
+    -笔记：
+      -notes/考研知识.md
+      -notes/danq.md
