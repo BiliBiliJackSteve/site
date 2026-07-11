@@ -11,7 +11,6 @@ nav:
   - 测试:
     - notes/Untitled-1.md
     - notes/Markdown测试.md
-    - notes/test.md
 
 theme:
   name: material
