@@ -9,7 +9,7 @@ precious historical materials. At the same time, through the art of
 Danqing, we can also glimpse the changes of history and the evolution of
 society.
 
-Chinese philosophical thinking has had an important influence on the art of Danqing.LaoZi pursues the beauty of
+Chinese philosophical thinking has had an important influence on the art of Danqing.LaoZi pursues the beauty of
 nature, while Confucius were stressing the beauty of harmony. These ideas are reflected in the works of painting. Many paintings convey
 philosophical ideas such as the unity of heaven and man, the harmony between nature and human, and the empathy between people and nature through the depiction of
 natural elements such as mountains, rivers, flowers, and birds. In addition, Chinese calligraphy is closely related to Danqing art.The concepts of ink application and vivid style

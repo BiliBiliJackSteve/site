@@ -5,6 +5,8 @@ site_author: Jack_Steve
 site_description: my first site
 
 nav:
+  - 我:
+    - notes/日常物品整理.md
   - 笔记:
     - notes/考研知识.md
     - notes/danq.md
