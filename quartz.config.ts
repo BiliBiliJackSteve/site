@@ -10,6 +10,7 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "Jack_Steve的个人网站",
     pageTitleSuffix: "",
+    analytics: null,
     enableSPA: true,
     enablePopovers: true,
     locale: "zh-CN",
