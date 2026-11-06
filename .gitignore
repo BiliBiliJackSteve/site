@@ -1,0 +1,14 @@
+# 依赖与构建产物
+node_modules
+public
+.quartz-cache
+
+# 系统文件
+.DS_Store
+
+# 本地工具配置（不入库）
+.claudian/
+.agents/
+
+# Obsidian 本地配置（不发布、不入库）
+content/.obsidian
