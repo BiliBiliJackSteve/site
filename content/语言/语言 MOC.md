@@ -10,7 +10,7 @@ tags:
 ⬅️ 返回 [[index|主页]]
 
 ## 日语
-- [[日语歌词-yararara]]（歌词材料）
+- [[YARARARA]]（歌词材料）
 
 ### 待补充方向
 - [ ] 单词本
@@ -18,7 +18,7 @@ tags:
 - [ ] 阅读/听力材料
 
 ## 英语
-- [[英语作文-丹青艺术]] — The Art of Danqing，英语写作练习
+- [[The Art Of Danqing]] — The Art of Danqing，英语写作练习
 
 ### 待补充方向
 - [ ] Podcast 笔记（配合每日一小时的英文播客计划）
