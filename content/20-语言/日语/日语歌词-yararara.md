@@ -1,3 +1,8 @@
+---
+tags:
+  - 语言/日语
+---
+## YARARARA
 [Verse 1]  
 「おい、なんで<ruby>ｿﾝﾅ<rt>そんな</rt></ruby>ことやってんの？」  
 「<ruby>無駄<rt>むだ</rt></ruby>なことしてるの？」  

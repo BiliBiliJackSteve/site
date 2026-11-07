@@ -1,0 +1,216 @@
+{
+  "userName": "",
+  "permissionMode": "yolo",
+  "model": "opencode:kimi-code-plan-cn/k3",
+  "thinkingBudget": "default",
+  "effortLevel": "high",
+  "serviceTier": "default",
+  "enableAutoTitleGeneration": true,
+  "titleGenerationModel": "",
+  "excludedTags": [],
+  "mediaFolder": "",
+  "systemPrompt": "",
+  "persistentExternalContextPaths": [],
+  "sharedEnvironmentVariables": "",
+  "envSnippets": [],
+  "customContextLimits": {},
+  "customModelAliases": {},
+  "keyboardNavigation": {
+    "scrollUpKey": "w",
+    "scrollDownKey": "s",
+    "focusInputKey": "i"
+  },
+  "requireCommandOrControlEnterToSend": false,
+  "enableLivePreviewComposer": true,
+  "locale": "zh-CN",
+  "providerConfigs": {
+    "claude": {
+      "enabled": false,
+      "safeMode": "acceptEdits",
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "loadUserSettings": true,
+      "enableChrome": false,
+      "enableBangBash": false,
+      "customModels": "",
+      "lastModel": "haiku",
+      "modelEnvironmentType": "",
+      "titleModelEnvironmentType": "",
+      "environmentVariables": "",
+      "environmentHash": "",
+      "thirdPartyServices": [],
+      "defaultThirdPartyServiceId": ""
+    },
+    "codex": {
+      "enabled": false,
+      "safeMode": "workspace-write",
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "modelAliases": {},
+      "visibleModels": [],
+      "enableUltraEffort": false,
+      "responseStyle": "pragmatic",
+      "reasoningSummary": "detailed",
+      "environmentVariables": "",
+      "environmentHash": "",
+      "installationMethodsByHost": {},
+      "wslDistroOverridesByHost": {},
+      "selectedModels": [],
+      "customModels": "",
+      "discoveredModels": [],
+      "catalogTimestamp": 0,
+      "catalogFingerprint": ""
+    },
+    "grok": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "preferredReasoningByModel": {},
+      "visibleModels": [],
+      "selectedModelsByHost": {}
+    },
+    "opencode": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": true,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "preferredThinkingByModel": {},
+      "selectedMode": "",
+      "thinkingOptionsByModel": {
+        "kimi-code-plan-cn/k3": [
+          {
+            "label": "none",
+            "value": "none"
+          },
+          {
+            "label": "low",
+            "value": "low"
+          },
+          {
+            "label": "high",
+            "value": "high"
+          },
+          {
+            "label": "max",
+            "value": "max"
+          },
+          {
+            "label": "default",
+            "value": "default"
+          }
+        ]
+      },
+      "visibleModels": [
+        "kimi-code-plan-cn/k3"
+      ]
+    },
+    "pi": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "discoveredModels": [],
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "preferredThinkingByModel": {},
+      "toolMode": "all",
+      "visibleModels": []
+    },
+    "kimi": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "visibleModels": []
+    },
+    "antigravity": {
+      "autoApproveTools": true,
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "diagnosticsRefreshToken": 0,
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "lastFailure": null,
+      "manualModelId": "",
+      "timeoutMs": 120000
+    },
+    "dsh": {
+      "enabled": false,
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "environmentVariables": "",
+      "environmentHash": "",
+      "startupTimeoutMs": 90000,
+      "models": []
+    }
+  },
+  "defaultChatProviderId": "",
+  "settingsProvider": "opencode",
+  "savedProviderModel": {
+    "opencode": "opencode:kimi-code-plan-cn/k3"
+  },
+  "savedProviderEffort": {
+    "opencode": "high"
+  },
+  "savedProviderServiceTier": {},
+  "savedProviderThinkingBudget": {},
+  "savedProviderPermissionMode": {
+    "claude": "yolo",
+    "opencode": "yolo"
+  },
+  "pendingProviderSessionInvalidations": {},
+  "lastCustomModel": "",
+  "maxTabs": 3,
+  "messagesPaddingLeft": 0,
+  "messagesPaddingRight": 0,
+  "enableAutoScroll": true,
+  "outlineSide": "left",
+  "deferMathRenderingDuringStreaming": true,
+  "streamingPlainTextFastPath": true,
+  "expandFileEditsByDefault": false,
+  "chatViewPlacement": "right-sidebar",
+  "chatHomeView": "chat",
+  "settingsLastCategory": "general",
+  "hiddenProviderCommands": {},
+  "blobFollowPointer": true,
+  "generativeUiEnabled": true,
+  "uiInsertToNoteEnabled": false,
+  "memoryEnabled": true,
+  "memoryFilePath": ".claudian-plus/memory.md",
+  "memoryMaxInjectionChars": 1500,
+  "memoryMaxInjectionTokens": 1200,
+  "memoryMaxGlobalInjectionChars": 350,
+  "memoryMaxProjectInjectionChars": 500,
+  "consciousnessEnabled": false,
+  "consciousnessAutoMemory": false,
+  "dreamIntervalMs": 86400000,
+  "memoryEpisodeRetentionDays": 90,
+  "auxiliarySavingMode": "standard",
+  "backgroundRequestDailyLimit": null,
+  "ambientContextEnabled": true,
+  "ambientMaxContentChars": 32000,
+  "ambientMaxOutlineEntries": 50,
+  "ambientMaxLinks": 25,
+  "ambientFileModes": {},
+  "titleGenerationLocale": "",
+  "lastSelectedChatModel": {
+    "providerId": "opencode",
+    "model": "opencode:kimi-code-plan-cn/k3"
+  },
+  "maxWarmAgentProcesses": 5,
+  "showMessageTimestamps": false,
+  "enableDualPane": true,
+  "dualPaneSide": "right",
+  "restoreTabsOnStartup": true,
+  "sessionManagerOrganization": "list",
+  "sessionManagerSort": "last-updated",
+  "pinnedLinkedContentPaths": []
+}
