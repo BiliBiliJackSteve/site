@@ -19,6 +19,8 @@ tags:
 - [[空想フォレスト]] — じん
 - [[夜明けと蛍]] — n-buna
 - [[雨き声残響]] — Orangestar
+- [[アスノヨゾラ哨戒班]] — Orangestar
+- [[DAYBREAK FRONTLINE]] — Orangestar
 
 ## 英语
 - [[her]] — JVKE

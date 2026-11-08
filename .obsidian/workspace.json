@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/理工/数学/高等数学笔记-求极限.md",
+                "file": "content/语言/非学科/songs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "高等数学笔记-求极限"
+              "title": "songs"
             }
           }
         ]
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/理工/数学/高等数学笔记-求极限.md",
+                "file": "content/语言/非学科/songs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/理工/数学/高等数学笔记-求极限.md",
+                "file": "content/语言/非学科/songs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -221,8 +221,10 @@
   },
   "active": "ce9e0360a1739068",
   "lastOpenFiles": [
-    "content/理工/数学/错题.md",
+    "content/语言/非学科/歌词/日语/DAYBREAK FRONTLINE.md",
+    "content/语言/非学科/歌词/日语/アスノヨゾラ哨戒班.md",
     "content/理工/数学/高等数学笔记-求极限.md",
+    "content/理工/数学/错题.md",
     "content/理工/数学/排列与逆序数.md",
     "content/理工/考研知识.md",
     "content/附件/splash1.png",
@@ -255,8 +257,6 @@
     "content/语言/非学科/歌词/日语/Calc..md",
     "content/语言/非学科/歌词/日语/アイロニ.md",
     "content/语言/非学科/how_to_collect_songs.md",
-    "content/语言/非学科/歌词/日语/心拍数♯0822.md",
-    "content/语言/非学科/歌词/日语/心做し.md",
     "content/编程/C++"
   ]
 }
