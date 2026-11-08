@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/语言/语言 MOC.md",
+                "file": "content/理工/数学/高等数学笔记-求极限.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "语言 MOC"
+              "title": "高等数学笔记-求极限"
             }
           }
         ]
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/语言/语言 MOC.md",
+                "file": "content/理工/数学/高等数学笔记-求极限.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/语言/语言 MOC.md",
+                "file": "content/理工/数学/高等数学笔记-求极限.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.63671875
+    "width": 407.63671875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,6 +221,21 @@
   },
   "active": "ce9e0360a1739068",
   "lastOpenFiles": [
+    "content/理工/数学/错题.md",
+    "content/理工/数学/高等数学笔记-求极限.md",
+    "content/理工/数学/排列与逆序数.md",
+    "content/理工/考研知识.md",
+    "content/附件/splash1.png",
+    "content/编程/C++/C++ 新式 for 循环（range-based for）.md",
+    "content/编程/C++/C++ cin 输入流.md",
+    "content/编程/C++/C++ while(cin＞＞x) 为什么能当循环条件.md",
+    "content/知识库规范.md",
+    "content/理工/数学/未命名.md",
+    "README.md",
+    "主页.md",
+    "未命名 1.base",
+    "未命名.base",
+    "content/语言/语言 MOC.md",
     "content/语言/语言知识库规范.md",
     "content/语言/非学科/歌词/英语",
     "content/语言/非学科/歌词/日语",
@@ -228,7 +244,6 @@
     "content/语言/学科/英语",
     "content/语言/学科/日语",
     "content/语言/学科",
-    "content/知识库规范.md",
     "content/语言/非学科/songs.md",
     "content/语言/非学科/歌词/英语/her.md",
     "content/语言/非学科/歌词/日语/雨き声残響.md",
@@ -242,18 +257,6 @@
     "content/语言/非学科/how_to_collect_songs.md",
     "content/语言/非学科/歌词/日语/心拍数♯0822.md",
     "content/语言/非学科/歌词/日语/心做し.md",
-    "content/语言/非学科/歌词/日语/YARARARA.md",
-    "content/语言/非学科/歌词/日语/me me she.md",
-    "content/语言/学科/英语/The Art Of Danqing.md",
-    "content/语言/语言 MOC.md",
-    "content/index.md",
-    "主页.md",
-    "content/编程/C++/C++ 运算符优先级陷阱（逻辑非与取余）.md",
-    "content/编程/C++/C++ 栈、堆与动态数组.md",
-    "content/编程/C++/C++ 新式 for 循环（range-based for）.md",
-    "content/编程/C++/C++ cin 输入流.md",
-    "content/编程/C++",
-    "content/编程",
-    "content/语言/英语"
+    "content/编程/C++"
   ]
 }
