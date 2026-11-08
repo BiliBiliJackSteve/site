@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/语言/日语/地球最後の告白を.md",
+                "file": "content/语言/songs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "地球最後の告白を"
+              "title": "songs"
             }
           }
         ]
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/语言/日语/地球最後の告白を.md",
+                "file": "content/语言/songs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/语言/日语/地球最後の告白を.md",
+                "file": "content/语言/songs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -220,6 +220,12 @@
   },
   "active": "ce9e0360a1739068",
   "lastOpenFiles": [
+    "content/语言/英语/her.md",
+    "content/语言/日语/雨き声残響.md",
+    "content/语言/日语/夜明けと蛍.md",
+    "content/语言/日语/空想フォレスト.md",
+    "content/语言/日语/glow.md",
+    "content/语言/日语/地球最後の告白を.md",
     "content/语言/日语/kiss.md",
     "content/语言/songs.md",
     "content/语言/日语/Calc..md",
@@ -227,7 +233,6 @@
     "content/语言/how_to_collect_songs.md",
     "content/语言/日语/心拍数♯0822.md",
     "content/语言/日语/心做し.md",
-    "content/语言/日语/地球最後の告白を.md",
     "content/语言/日语/YARARARA.md",
     "content/语言/日语/me me she.md",
     "content/知识库规范.md",
@@ -242,15 +247,10 @@
     "content/编程/C++/C++ while(cin＞＞x) 为什么能当循环条件.md",
     "content/编程/编程 MOC.md",
     "content/编程/C++",
-    "content/编程/AI 应用实践路径.md",
     "content/编程",
     "content/语言/英语",
     "content/语言/日语",
     "content/语言",
-    "content/理工/电路/邱关源电路笔记03-参考方向.md",
-    "content/理工/电路/邱关源电路笔记01-电路守恒与电路等效.md",
-    "content/理工/电路/电路学习路线图.md",
-    "content/理工/电路/邱关源电路笔记02-电源变换与节点电压.md",
     "content/理工/电路",
     "content/理工/数学",
     "content/理工",
