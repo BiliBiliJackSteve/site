@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/语言/非学科/songs.md",
+                "file": "content/编程/C++/C++ cin 输入流.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "songs"
+              "title": "C++ cin 输入流"
+            }
+          },
+          {
+            "id": "2f5e5a59d41d3633",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/编程/C++/C++ vector.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C++ vector"
+            }
+          },
+          {
+            "id": "f070df7559d0d338",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/编程/C++/C++ 高精度乘法（洛谷 P1303）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C++ 高精度乘法（洛谷 P1303）"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/语言/非学科/songs.md",
+                "file": "content/编程/C++/C++ 高精度乘法（洛谷 P1303）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/语言/非学科/songs.md",
+                "file": "content/编程/C++/C++ 高精度乘法（洛谷 P1303）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -180,19 +209,19 @@
                   "version": 1,
                   "openTabs": [
                     {
-                      "tabId": "tab-1794054117428-nc6d8ds",
-                      "conversationId": "conv-1794054167325-5wp2gfn4q"
-                    },
-                    {
-                      "tabId": "tab-1794054990814-rsv84z7",
-                      "conversationId": "conv-1794055003841-1j5eymbz4"
-                    },
-                    {
                       "tabId": "tab-1794110859076-3i4h36k",
                       "conversationId": "conv-1794111125045-zx5q3xk8j"
+                    },
+                    {
+                      "tabId": "tab-1794272256246-iawlqec",
+                      "conversationId": "conv-1794272270271-46fhh0i3a"
+                    },
+                    {
+                      "tabId": "tab-1794272660170-6bnugd1",
+                      "conversationId": "conv-1794272672754-ygkht583j"
                     }
                   ],
-                  "activeTabId": "tab-1794110859076-3i4h36k"
+                  "activeTabId": "tab-1794272256246-iawlqec"
                 }
               },
               "icon": "bot",
@@ -219,8 +248,15 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ce9e0360a1739068",
+  "active": "f070df7559d0d338",
   "lastOpenFiles": [
+    "content/编程/C++/C++ vector.md",
+    "content/编程/C++/C++ 栈、堆与动态数组.md",
+    "content/编程/C++/C++ 高精度乘法（洛谷 P1303）.md",
+    "content/编程/C++/C++ 指针交换两个变量（swap）.md",
+    "未命名.md",
+    "content/编程/C++/C++ cin 输入流.md",
+    "content/语言/非学科/songs.md",
     "content/语言/非学科/歌词/日语/DAYBREAK FRONTLINE.md",
     "content/语言/非学科/歌词/日语/アスノヨゾラ哨戒班.md",
     "content/理工/数学/高等数学笔记-求极限.md",
@@ -229,7 +265,6 @@
     "content/理工/考研知识.md",
     "content/附件/splash1.png",
     "content/编程/C++/C++ 新式 for 循环（range-based for）.md",
-    "content/编程/C++/C++ cin 输入流.md",
     "content/编程/C++/C++ while(cin＞＞x) 为什么能当循环条件.md",
     "content/知识库规范.md",
     "content/理工/数学/未命名.md",
@@ -246,17 +281,11 @@
     "content/语言/学科/英语",
     "content/语言/学科/日语",
     "content/语言/学科",
-    "content/语言/非学科/songs.md",
     "content/语言/非学科/歌词/英语/her.md",
     "content/语言/非学科/歌词/日语/雨き声残響.md",
     "content/语言/非学科/歌词/日语/夜明けと蛍.md",
     "content/语言/非学科/歌词/日语/空想フォレスト.md",
     "content/语言/非学科/歌词/日语/glow.md",
-    "content/语言/非学科/歌词/日语/地球最後の告白を.md",
-    "content/语言/非学科/歌词/日语/kiss.md",
-    "content/语言/非学科/歌词/日语/Calc..md",
-    "content/语言/非学科/歌词/日语/アイロニ.md",
-    "content/语言/非学科/how_to_collect_songs.md",
     "content/编程/C++"
   ]
 }
