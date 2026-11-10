@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/编程/C++/C++ 高精度乘法（洛谷 P1303）.md",
+                "file": "content/编程/C++/C++ vector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/编程/C++/C++ 高精度乘法（洛谷 P1303）.md",
+                "file": "content/编程/C++/C++ vector.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -248,11 +248,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f070df7559d0d338",
+  "active": "2f5e5a59d41d3633",
   "lastOpenFiles": [
+    "content/编程/C++/C++ 高精度乘法（洛谷 P1303）.md",
     "content/编程/C++/C++ vector.md",
     "content/编程/C++/C++ 栈、堆与动态数组.md",
-    "content/编程/C++/C++ 高精度乘法（洛谷 P1303）.md",
     "content/编程/C++/C++ 指针交换两个变量（swap）.md",
     "未命名.md",
     "content/编程/C++/C++ cin 输入流.md",
