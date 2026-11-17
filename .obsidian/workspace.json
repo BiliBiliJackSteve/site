@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "单词.md",
+                "file": "content/语言/学科/英语/单词.md",
                 "mode": "source",
                 "source": false
               },
@@ -237,10 +237,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "45bf9f9b9149b116",
+  "active": "9f5b52937206b50c",
   "lastOpenFiles": [
     "未命名.base",
-    "单词.md",
+    "content/语言/学科/英语/单词.md",
     "未命名 1.base",
     "README.md",
     "主页.md",
